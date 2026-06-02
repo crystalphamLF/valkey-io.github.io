@@ -3,7 +3,7 @@ title = "Caching up with the Community: A Conversation with Daniela Miao on Valk
 date = 2026-06-02
 description = "This segment features Daniela Miao, Co-founder and CTO of Momento, discussing her journey into open source, the technical advantages of building on Valkey, and how high-scale infrastructure supports some of the world's largest live events." 
 authors =  ["dmiao","crystalpham"]
-[taxonomies]
+[taxonomy]
 blog_type = ["Community Highlight"]
 +++
 
